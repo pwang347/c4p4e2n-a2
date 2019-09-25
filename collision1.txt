@@ -1,0 +1,10 @@
+zenas@LAPTOP-07DGCPEP:/var/zenas/code/c4p4e2n-a2$ python3 crc.py
+2768625435
+Found match in 6423171421 iterations after 1614.90 seconds: 1 and 2128204125 have value 2768625435
+X
+String: ☺
+Base64: AQ==
+Hex: 0x1
+Y
+Base64: ftnRXQ==
+Hex: 0x7ed9d15d
